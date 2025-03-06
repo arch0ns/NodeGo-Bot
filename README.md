@@ -3,8 +3,8 @@
 ![image](https://github.com/user-attachments/assets/16a30dad-3a74-4857-b6db-1e0be6b4df7a)
 
 - NodeGo BOT
-- Register Here : [NodeGo](https://app.nodego.ai/r/NODE006C20BE0B8A)
-- Use Code : NODE006C20BE0B8A
+- Register Here : [NodeGo](https://app.nodego.ai/r/NODEAB845E5C93B8)
+- Use Code : NODEAB845E5C93B8
 
 ## Features
 
