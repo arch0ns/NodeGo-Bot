@@ -1,6 +1,6 @@
 # NodeGo BOT
 NodeGo BOT
-
+https://private-user-images.githubusercontent.com/143285032/412516536-16a30dad-3a74-4857-b6db-1e0be6b4df7a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEyOTYxNDksIm5iZiI6MTc0MTI5NTg0OSwicGF0aCI6Ii8xNDMyODUwMzIvNDEyNTE2NTM2LTE2YTMwZGFkLTNhNzQtNDg1Ny1iNmRiLTFlMGJlNmI0ZGY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNlQyMTE3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNWNiNzI5OTFlYjdjMDU5NWE4NWY1N2Q0ZWU1ZWU3YTdhM2E5NzFiMDY5Yjc2MjcwMDIzNTlkYTZkMWIxN2RjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.39UrF5KnaJwOOEDucXUXCMHRqmc6mR-skHX8nZl953k
 - Register Here : [NodeGo](https://app.nodego.ai/r/NODE006C20BE0B8A)
 - Use Code : NODE006C20BE0B8A
 
@@ -41,7 +41,7 @@ Note:
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/NodeGo.git
+   git clone https://github.com/arch0ns/NodeGo-Bot
    ```
    ```bash
    cd NodeGo
@@ -49,7 +49,7 @@ Note:
 
 2. **Install Requirements:**
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Configuration
@@ -78,12 +78,8 @@ nano proxy.txt
 python bot.py #or python3 bot.py
 ```
 
-## Buy Me a Coffee
+### 
 
-- EVM: 0x47f41Fcb17cF9B7A02C26EE855d26bB8D3928E1b
-- TON: UQA-qG5eyQ7gVxvPDpy484xzc0UPS9a8hJsUAwe0T_3D7_oF
-- SOL: A1pUv13rRDtubtYJuXswZYSQBJojPhthXJftfNZBRnEX
-- SUI: 0xeb697918d66c4ade867d61d0b8fb541df83675e8f60b6b81da8917aab149ee8f
 
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
